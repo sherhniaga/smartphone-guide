@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# ЗАМІНІТЬ example.com на справжній домен перед публікацією
+Sitemap: https://example.com/sitemap.xml
